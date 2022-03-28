@@ -1,6 +1,6 @@
 <h1 align="center">Barbearia-Alura</h1>
 
-<p>Projeto realizado no <strong>curso de HTML5 e CSS3(parte 1)</strong> da plataforma do Alura, onde pude está elaborando a página de uma barbearia.</p>
+<p>Projeto realizado no <strong>curso de HTML5 e CSS3(parte 1)</strong> da plataforma do Alura, onde elaborei a página de uma barbearia.</p>
 
 ![Badge Conteúdos trabalhados:](https://img.shields.io/badge/HTML5-T%C3%B3picos%20aprendidos%3A-9cf)
 
